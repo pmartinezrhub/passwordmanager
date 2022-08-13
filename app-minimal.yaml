@@ -1,0 +1,17 @@
+Categories: Security
+ - 
+License: GPLv3
+Website: foo@gnusocial.net
+SourceCode:
+IssueTracker:
+
+Summary:
+Description: |-
+
+RepoType:
+Repo:
+
+Builds:
+ - commit:
+
+UpdateCheckMode:
